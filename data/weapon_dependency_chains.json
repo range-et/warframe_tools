@@ -1,0 +1,709 @@
+{
+  "total_trees": 46,
+  "total_dependencies": 54,
+  "trees": [
+    {
+      "weapon": "Afuris",
+      "children": [
+        {
+          "weapon": "Furis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akbolto",
+      "children": [
+        {
+          "weapon": "Bolto",
+          "children": [
+            {
+              "weapon": "Lato",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weapon": "Akbronco",
+      "children": [
+        {
+          "weapon": "Bronco",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akbronco Prime",
+      "children": [
+        {
+          "weapon": "Bronco Prime",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akjagara",
+      "children": [
+        {
+          "weapon": "Akbolto",
+          "children": [
+            {
+              "weapon": "Bolto",
+              "children": [
+                {
+                  "weapon": "Lato",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weapon": "Dual Skana",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Aklex",
+      "children": [
+        {
+          "weapon": "Lex",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Aklex Prime",
+      "children": [
+        {
+          "weapon": "Lex Prime",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akmagnus",
+      "children": [
+        {
+          "weapon": "Magnus",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akmagnus Prime",
+      "children": [
+        {
+          "weapon": "Magnus Prime",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Aksomati",
+      "children": [
+        {
+          "weapon": "Akstiletto",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akvasto",
+      "children": [
+        {
+          "weapon": "Vasto",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Akvasto Prime",
+      "children": [
+        {
+          "weapon": "Vasto Prime",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Boltace",
+      "children": [
+        {
+          "weapon": "Boltor",
+          "children": []
+        },
+        {
+          "weapon": "Kronen",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Bolto",
+      "children": [
+        {
+          "weapon": "Lato",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Cadus",
+      "children": [
+        {
+          "weapon": "Bo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Dark Split-Sword",
+      "children": [
+        {
+          "weapon": "Dual Skana",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Dragon Nikana",
+      "children": [
+        {
+          "weapon": "Nikana",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Dual Cestra",
+      "children": [
+        {
+          "weapon": "Cestra",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Dual Kamas",
+      "children": [
+        {
+          "weapon": "Kama",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Dual Raza",
+      "children": [
+        {
+          "weapon": "Dual Kamas",
+          "children": [
+            {
+              "weapon": "Kama",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weapon": "Heliocor",
+      "children": [
+        {
+          "weapon": "Gammacor",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Hirudo",
+      "children": [
+        {
+          "weapon": "Kogake",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Hystrix",
+      "children": [
+        {
+          "weapon": "Bolto",
+          "children": [
+            {
+              "weapon": "Lato",
+              "children": []
+            }
+          ]
+        },
+        {
+          "weapon": "Viper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Knux",
+      "children": [
+        {
+          "weapon": "Furax",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Kulstar",
+      "children": [
+        {
+          "weapon": "Kraken",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Lesion",
+      "children": [
+        {
+          "weapon": "Tipedo",
+          "children": [
+            {
+              "weapon": "Kunai",
+              "children": []
+            },
+            {
+              "weapon": "Bo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weapon": "Mutalist Cernos",
+      "children": [
+        {
+          "weapon": "Cernos",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Panthera",
+      "children": [
+        {
+          "weapon": "Hikou",
+          "children": []
+        },
+        {
+          "weapon": "Miter",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Paracesis",
+      "children": [
+        {
+          "weapon": "Galatine",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Proboscis Cernos",
+      "children": [
+        {
+          "weapon": "Mutalist Cernos",
+          "children": [
+            {
+              "weapon": "Cernos",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weapon": "Redeemer",
+      "children": [
+        {
+          "weapon": "Vasto",
+          "children": []
+        },
+        {
+          "weapon": "Dual Skana",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Ripkas",
+      "children": [
+        {
+          "weapon": "Ankyros",
+          "children": []
+        },
+        {
+          "weapon": "Dual Cleavers",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Sarpa",
+      "children": [
+        {
+          "weapon": "Akstiletto",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Shaku",
+      "children": [
+        {
+          "weapon": "Ninkondi",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Sibear",
+      "children": [
+        {
+          "weapon": "Magistar",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Sydon",
+      "children": [
+        {
+          "weapon": "Amphis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Tekko",
+      "children": [
+        {
+          "weapon": "Ankyros",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Tiberon",
+      "children": [
+        {
+          "weapon": "Latron",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Tipedo",
+      "children": [
+        {
+          "weapon": "Kunai",
+          "children": []
+        },
+        {
+          "weapon": "Bo",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Twin Basolk",
+      "children": [
+        {
+          "weapon": "Dual Zoren",
+          "children": []
+        },
+        {
+          "weapon": "Atomos",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Twin Grakatas",
+      "children": [
+        {
+          "weapon": "Grakata",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Twin Kohmak",
+      "children": [
+        {
+          "weapon": "Kohmak",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Twin Krohkur",
+      "children": [
+        {
+          "weapon": "Krohkur",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Twin Vipers",
+      "children": [
+        {
+          "weapon": "Viper",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "War",
+      "children": [
+        {
+          "weapon": "Broken War",
+          "children": []
+        }
+      ]
+    },
+    {
+      "weapon": "Zarr",
+      "children": [
+        {
+          "weapon": "Drakgoon",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "all_dependencies": [
+    {
+      "from": "Afuris",
+      "to": "Furis"
+    },
+    {
+      "from": "Akbolto",
+      "to": "Bolto"
+    },
+    {
+      "from": "Akbronco",
+      "to": "Bronco"
+    },
+    {
+      "from": "Akbronco Prime",
+      "to": "Bronco Prime"
+    },
+    {
+      "from": "Akjagara",
+      "to": "Akbolto"
+    },
+    {
+      "from": "Akjagara",
+      "to": "Dual Skana"
+    },
+    {
+      "from": "Aklex",
+      "to": "Lex"
+    },
+    {
+      "from": "Aklex Prime",
+      "to": "Lex Prime"
+    },
+    {
+      "from": "Akmagnus",
+      "to": "Magnus"
+    },
+    {
+      "from": "Akmagnus Prime",
+      "to": "Magnus Prime"
+    },
+    {
+      "from": "Aksomati",
+      "to": "Akstiletto"
+    },
+    {
+      "from": "Akvasto",
+      "to": "Vasto"
+    },
+    {
+      "from": "Akvasto Prime",
+      "to": "Vasto Prime"
+    },
+    {
+      "from": "Boltace",
+      "to": "Boltor"
+    },
+    {
+      "from": "Boltace",
+      "to": "Kronen"
+    },
+    {
+      "from": "Bolto",
+      "to": "Lato"
+    },
+    {
+      "from": "Cadus",
+      "to": "Bo"
+    },
+    {
+      "from": "Dark Split-Sword",
+      "to": "Dual Skana"
+    },
+    {
+      "from": "Dragon Nikana",
+      "to": "Nikana"
+    },
+    {
+      "from": "Dual Cestra",
+      "to": "Cestra"
+    },
+    {
+      "from": "Dual Kamas",
+      "to": "Kama"
+    },
+    {
+      "from": "Dual Raza",
+      "to": "Dual Kamas"
+    },
+    {
+      "from": "Heliocor",
+      "to": "Gammacor"
+    },
+    {
+      "from": "Hirudo",
+      "to": "Kogake"
+    },
+    {
+      "from": "Hystrix",
+      "to": "Bolto"
+    },
+    {
+      "from": "Hystrix",
+      "to": "Viper"
+    },
+    {
+      "from": "Knux",
+      "to": "Furax"
+    },
+    {
+      "from": "Kulstar",
+      "to": "Kraken"
+    },
+    {
+      "from": "Lesion",
+      "to": "Tipedo"
+    },
+    {
+      "from": "Mutalist Cernos",
+      "to": "Cernos"
+    },
+    {
+      "from": "Panthera",
+      "to": "Hikou"
+    },
+    {
+      "from": "Panthera",
+      "to": "Miter"
+    },
+    {
+      "from": "Paracesis",
+      "to": "Galatine"
+    },
+    {
+      "from": "Proboscis Cernos",
+      "to": "Mutalist Cernos"
+    },
+    {
+      "from": "Redeemer",
+      "to": "Dual Skana"
+    },
+    {
+      "from": "Redeemer",
+      "to": "Vasto"
+    },
+    {
+      "from": "Ripkas",
+      "to": "Ankyros"
+    },
+    {
+      "from": "Ripkas",
+      "to": "Dual Cleavers"
+    },
+    {
+      "from": "Sarpa",
+      "to": "Akstiletto"
+    },
+    {
+      "from": "Shaku",
+      "to": "Ninkondi"
+    },
+    {
+      "from": "Sibear",
+      "to": "Magistar"
+    },
+    {
+      "from": "Sydon",
+      "to": "Amphis"
+    },
+    {
+      "from": "Tekko",
+      "to": "Ankyros"
+    },
+    {
+      "from": "Tiberon",
+      "to": "Latron"
+    },
+    {
+      "from": "Tipedo",
+      "to": "Bo"
+    },
+    {
+      "from": "Tipedo",
+      "to": "Kunai"
+    },
+    {
+      "from": "Twin Basolk",
+      "to": "Atomos"
+    },
+    {
+      "from": "Twin Basolk",
+      "to": "Dual Zoren"
+    },
+    {
+      "from": "Twin Grakatas",
+      "to": "Grakata"
+    },
+    {
+      "from": "Twin Kohmak",
+      "to": "Kohmak"
+    },
+    {
+      "from": "Twin Krohkur",
+      "to": "Krohkur"
+    },
+    {
+      "from": "Twin Vipers",
+      "to": "Viper"
+    },
+    {
+      "from": "War",
+      "to": "Broken War"
+    },
+    {
+      "from": "Zarr",
+      "to": "Drakgoon"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+selenium = "*"
+jupyterlab = "*"
+ipython = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
+tqdm = "*"
+networkx = "*"
+matplotlib = "*"
+requests = "*"
+pillow = "*"
+warframe-tools = {file = ".", editable = true}
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

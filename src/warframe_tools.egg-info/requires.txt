@@ -1,0 +1,12 @@
+selenium
+beautifulsoup4
+html5lib
+tqdm
+networkx
+matplotlib
+requests
+pillow
+
+[dev]
+jupyterlab
+ipython
