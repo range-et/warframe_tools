@@ -1,6 +1,15 @@
+---
+tags: [project, warframe-tools, readme, scraping, node-graph, visualization, python]
+status: wip
+domain: code-tools
+repo: https://github.com/range-et/warframe_tools
+---
+
 # Warframe Tools
 
 A collection of Python tools for Warframe data analysis, scraping, and visualization.
+
+> **Why it exists.** Crafting trees in modern games are dense graphs in disguise — what depends on what, what unlocks what. warframe_tools scrapes the wiki, builds the dependency graph in Python, and renders it. Same shape as [[../jeftwork/readme|jeftwork]] (people-document graph) and [[../Narode/README|Narode]] (information-spread graph), just applied to game data. The productized successor to the looser `warframe_fodderpath` scripts.
 
 ## Installation
 
@@ -106,3 +115,7 @@ from warframe_tools.visualisation import visualize_dependencies
 visualize_dependencies()
 ```
 
+
+---
+
+*Related: [warframe_fodderpath](https://github.com/range-et/warframe_fodderpath) (the precursor scripts) · [PGL](../PGL/README.md) (philosophical cousin in graph rendering) · [Threads/Visualization at scale](../../Threads/Visualization%20at%20scale.md) · [Threads/Modularity and codegen](../../Threads/Modularity%20and%20codegen.md) (workflows-as-code) · [MOC](../../MOC.md)*
