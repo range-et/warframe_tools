@@ -1,0 +1,13 @@
+# Mirrored into Assemblage/_Projects/warframe_tools/
+include = [
+    "README.md",
+]
+exclude = [
+    "CLAUDE.md",
+    "node_modules/**",
+    ".parcel-cache/**",
+    "data/**",
+    "images/**",
+    "dist/**",
+    "temp/**",
+]
