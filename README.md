@@ -9,7 +9,7 @@ repo: https://github.com/range-et/warframe_tools
 
 A collection of Python tools for Warframe data analysis, scraping, and visualization.
 
-> **Why it exists.** Crafting trees in modern games are dense graphs in disguise — what depends on what, what unlocks what. warframe_tools scrapes the wiki, builds the dependency graph in Python, and renders it. Same shape as [[../jeftwork/readme|jeftwork]] (people-document graph) and [[../Narode/README|Narode]] (information-spread graph), just applied to game data. The productized successor to the looser `warframe_fodderpath` scripts.
+> **Why it exists.** Crafting trees in modern games are dense graphs in disguise — what depends on what, what unlocks what. warframe_tools scrapes the wiki, builds the dependency graph in Python, and renders it. Same shape as [[../N-D-3/readme|N-D-3]] (the people-document graph from the jeftwork-era Epstein dumps, now `legacy/` inside N-D-3) and [[../Narode/README|Narode]] (information-spread graph) — substrate is different (game data), but the graph-rendering and dependency-tracing problem is shared across the [[../../Mathematics of Memetics|MoM]]-descended cluster. The productized successor to the looser `warframe_fodderpath` scripts.
 
 ## Installation
 
