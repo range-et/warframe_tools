@@ -2,7 +2,7 @@
 
 A collection of Python tools for Warframe data analysis, scraping, and visualization.
 
-> **Why it exists.** Crafting trees in modern games are dense graphs in disguise — what depends on what, what unlocks what. warframe_tools scrapes the wiki, builds the dependency graph in Python, and renders it. Same shape as [[../N-D-3/readme|N-D-3]] (the people-document graph from the jeftwork-era Epstein dumps, now `legacy/` inside N-D-3) and [[../Narode/README|Narode]] (information-spread graph) — substrate is different (game data), but the graph-rendering and dependency-tracing problem is shared across the [[../../Mathematics of Memetics|MoM]]-descended cluster. The productized successor to the looser `warframe_fodderpath` scripts.
+> **Why it exists.** Crafting trees in modern games are dense graphs in disguise — what depends on what, what unlocks what. warframe_tools scrapes the wiki, builds the dependency graph in Python, and renders it. Same shape as N-D-3 (people-document graphs) and [Narode](https://www.narode.net) (information-spread graphs) — the substrate is different (game data), but the graph-rendering and dependency-tracing problem is shared. The productized successor to the looser [warframe_fodderpath](https://github.com/range-et/warframe_fodderpath) scripts.
 
 ## Installation
 
@@ -107,8 +107,3 @@ from warframe_tools.visualisation import visualize_dependencies
 # Create dependency visualization
 visualize_dependencies()
 ```
-
-
----
-
-*Related: [warframe_fodderpath](https://github.com/range-et/warframe_fodderpath) (the precursor scripts) · [PGL](../PGL/README.md) (philosophical cousin in graph rendering) · [Threads/Visualization at scale](../../Threads/Visualization%20at%20scale.md) · [Threads/Modularity and codegen](../../Threads/Modularity%20and%20codegen.md) (workflows-as-code) · [MOC](../../MOC.md)*
