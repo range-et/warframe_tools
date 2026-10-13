@@ -1,10 +1,3 @@
----
-tags: [project, warframe-tools, readme, scraping, node-graph, visualization, python]
-status: wip
-domain: code-tools
-repo: https://github.com/range-et/warframe_tools
----
-
 # Warframe Tools
 
 A collection of Python tools for Warframe data analysis, scraping, and visualization.
